@@ -22,9 +22,14 @@ models.
 
 
 The dataset has been picked from Kaggle:
-author = {Prasoon Kottarathil},
-title = {Polycystic ovary syndrome (PCOS)},
-year = {2020},
-publisher = {kaggle},
-journal = {Kaggle Dataset},
-how published = {\url{https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos}}
+author = Prasoon Kottarathil
+
+title = Polycystic ovary syndrome (PCOS)
+
+year = 2020
+
+publisher = kaggle
+
+journal = Kaggle Dataset
+
+url = https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos
